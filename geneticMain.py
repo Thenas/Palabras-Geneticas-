@@ -2,7 +2,7 @@ from random import randint as rand
 from os import system as sys 
 
 POP = 500 # poblacion por generacion 
-WORD = "ornitorrinco"  # objetivo al que se desea llegar
+WORD = "esternocleidomastoideo"  # objetivo al que se desea llegar
 RUN = True
 
 
