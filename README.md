@@ -1,1 +1,1 @@
-Algoritmo genetico para palabras. 
+Algoritmo genetico para palabras.  Test 
